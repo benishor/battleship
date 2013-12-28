@@ -1,0 +1,31 @@
+.board {
+	margin: 10px;
+	float: left;
+}
+.row {
+	background-color: red;
+	float: left;
+	clear: both;
+}
+
+.cell {
+	background-color: blue;
+	border-left: 1px solid red;
+	border-bottom: 1px solid red;
+	display: block;
+	width: 30px;
+	height: 30px;
+	float: left;
+	cursor: hand;
+}
+
+.cell-content-0 {
+}
+
+.cell-content-1 {
+	background-color: yellow;
+}
+
+.cell-content-2 {
+	background-color: red;
+}

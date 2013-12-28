@@ -1,0 +1,15 @@
+Server
+	- nodeJS
+
+Client
+	
+	- javascript
+	- setup board behaviour:
+		DONE - clicking on an empty cell -> puts a ship with the head in that point
+		DONE - clicking on a ship's head -> removes the ship
+		- clicking on a ship's body -> rotates the ship 90 degrees clockwise
+
+
+Features
+	- lobby
+	- new match
