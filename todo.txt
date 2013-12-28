@@ -7,7 +7,8 @@ Client
 	- setup board behaviour:
 		DONE - clicking on an empty cell -> puts a ship with the head in that point
 		DONE - clicking on a ship's head -> removes the ship
-		- clicking on a ship's body -> rotates the ship 90 degrees clockwise
+		DONE - clicking on a ship's body -> rotates the ship 90 degrees clockwise
+		- avoid collisions and out-of-board placement when adding/rotating battleships.
 
 
 Features
